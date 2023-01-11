@@ -16,5 +16,5 @@ It was found a correlation betwwen the number of words and retweets, also betwee
 
 # SQL 
 
-9 queries are developed to achive insights of colombian electric market
+9 queries are developed to achive insights of colombian electric market which can be found in SQL.pgsql file 
 
