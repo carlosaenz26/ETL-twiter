@@ -14,3 +14,7 @@ https://colab.research.google.com/drive/12UII-mf6rXG2UERUvIDGuIUHFjgs3nrq?hl=es#
 
 It was found a correlation betwwen the number of words and retweets, also between the amount of retweets and the compund score of the sentiments 
 
+# SQL 
+
+9 queries are developed to achive insights of colombian electric market
+
